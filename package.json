@@ -1,0 +1,19 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "多人博客系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangqixun/myBlog.git"
+  },
+  "author": "zhangqixun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangqixun/myBlog/issues"
+  },
+  "homepage": "https://github.com/zhangqixun/myBlog#readme"
+}
